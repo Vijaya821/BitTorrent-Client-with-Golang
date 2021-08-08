@@ -1,2 +1,5 @@
-# BitTorrent-Client-with-Golang
-• Designed and built a single file bittorrent client built using golang. • Handled concurrency while downloading from peers. • Technologies used – Golang
+# BitTorrentClientGolang
+To run the file you need to have golang 1.2+ installed
+In the command line or terminal, type in 
+go run main.go "file.torrent" "location to download"
+
